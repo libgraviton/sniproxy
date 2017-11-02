@@ -1,5 +1,7 @@
 # sni-proxy
 
+Contributed by [@flavioaiello](https://github.com/flavioaiello) - thanks! ;-)
+
 Very lean dynamic ingress traffic router based on alpine linux and inbound rules based URI and Port rewriting.
 
 ## Scope
